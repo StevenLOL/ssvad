@@ -22,7 +22,8 @@ Man-Wai MAK
 
 
 #TO BUILD
-0) Due to copyright issues, the files "fft.c" and "fft.h" have been excluded from the compressed file. If you want to compile the program, please contactplease contact enmwmak at polyu.edu.hk 
+0) Due to copyright issues, the files "fft.c" and "fft.h" have been excluded from the compressed file. 
+If you want to compile the program, please contact enmwmak at polyu.edu.hk 
 1) download and install The [NIST SPeech HEader REsources (SPHERE) Package Version 2.7](http://www.nist.gov/itl/iad/mig/tools.cfm)
 1.1) you many need to del "-m32" in makefile 
 1.2) you many need to swap "-lm" to the end of the LLIBS
