@@ -33,3 +33,4 @@ LLIBS	= -l$(COMBINEDLIB) -lm
 2) and set ./src/Makefile:NISTDIR= your nist PATH
 3) cd src and make
 
+Steven
